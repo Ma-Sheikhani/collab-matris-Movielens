@@ -1,5 +1,5 @@
 # collab-matris-Movielens
-Collaborative Filtering trained on Movielens data
+Collaborative Filtering trained on Movielens data using pytorch
 
 Data is from https://grouplens.org/datasets/movielens/
 
